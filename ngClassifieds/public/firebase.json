@@ -1,0 +1,9 @@
+{
+  "firebase": "myclassifiedsapp",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+ 
+  ]
+}
